@@ -23,6 +23,7 @@ class App extends Component {
   render(){
     let texto;
 
+    
     // Pode usar ternário
     // Pode usar a condição dentro das chaves no html
     // Ou pode usar como abaixo
